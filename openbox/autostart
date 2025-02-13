@@ -1,0 +1,3 @@
+xrdb ~/.Xresources &
+~/.fehbg &
+~/.config/polybar/launch.sh &
